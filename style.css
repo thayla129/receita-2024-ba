@@ -1,0 +1,36 @@
+h1{
+    background-color: lightblue;
+    padding: 8px;
+    text-align: center;
+  }
+  h2{
+    background-color: lightblue;
+    padding: 5px;
+    text-align: center;
+  }
+  h3{
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+    margin:auto;
+  }
+  a{
+    text-decoration: none;
+    background-color: lightblue;
+    padding: 8px;
+  }
+  
+  img{
+    margin-top: 10px;
+    width: 100%;
+    margin: auto;
+    display:block;
+  }
+  
+  button{
+    padding: 8px;
+    font-weight:900;
+    text-transform: uppercase;
+  }
+  
+  
